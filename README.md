@@ -3,11 +3,11 @@
 Project ini adalah alat sederhana berbasis Python untuk menganalisis seberapa kuat keamanan sebuah password. Dibuat tanpa menggunakan library eksternal (No Imports) untuk menunjukkan logika dasar manipulasi string dan keamanan siber.
 
 ## ✨ Fitur
-Analisis Panjang: Mengecek apakah password memenuhi standar minimal 8-12 karakter.
-Variasi Karakter: Mendeteksi penggunaan huruf besar, huruf kecil, angka, dan simbol.
-Sistem Skor: Memberikan penilaian otomatis (Kuat, Sedang, atau Lemah).
-Blacklist Check: Memeriksa apakah password mengandung kata-kata pasaran yang mudah ditebak seperti "admin123" atau "12345678".
-Tanpa Dependensi: Berjalan murni menggunakan Python standar tanpa perlu install apapun.
+- Analisis Panjang: Mengecek apakah password memenuhi standar minimal 8-12 karakter.
+- Variasi Karakter: Mendeteksi penggunaan huruf besar, huruf kecil, angka, dan simbol.
+- Sistem Skor: Memberikan penilaian otomatis (Kuat, Sedang, atau Lemah).
+- Blacklist Check: Memeriksa apakah password mengandung kata-kata pasaran yang mudah ditebak seperti "admin123" atau "12345678".
+- Tanpa Dependensi: Berjalan murni menggunakan Python standar tanpa perlu install apapun.
 
 ## 🛠️ Cara Kerja
 Program akan memproses setiap karakter dalam password Anda dan memeriksa rentang ASCII-nya secara manual untuk menentukan kategorinya:
