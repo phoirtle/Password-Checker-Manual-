@@ -31,5 +31,5 @@ Masukkan password: Password123!
  HASIL ANALISIS
 STATUS: KUAT
 
-⚠️ Catatan Keamanan
+## ⚠️ Catatan Keamanan
 Project ini dibuat untuk tujuan edukasi. Untuk penggunaan nyata, disarankan menggunakan teknik hashing (seperti SHA-256) dan tidak menyimpan password dalam bentuk teks biasa.
