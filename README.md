@@ -25,8 +25,8 @@ Program akan memproses setiap karakter dalam password Anda dan memeriksa rentang
 
 Masukkan password yang ingin diuji saat diminta.
 📝 Contoh Tampilan
-   PASSWORD CHECKER   
-Masukkan password: Password123!
+   * PASSWORD CHECKER   
+Masukkan password: Jeong_Ian1004
 
  HASIL ANALISIS
 STATUS: KUAT
